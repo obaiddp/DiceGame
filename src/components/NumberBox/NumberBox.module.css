@@ -1,0 +1,22 @@
+.box {
+    width: 72px;
+    height: 72px;
+    
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+
+    transition: 600ms;
+
+    margin-right: 20px;
+}
+
+.selected {
+    background-color: black !important;
+    color: white !important;
+  }

@@ -1,0 +1,47 @@
+.defaultButton {
+    width: 180px;
+    height: 40px;
+
+    background-color: black;
+    color: white;
+    
+    border: none;
+    border-radius: 5px;
+    padding: 12px 24px;
+    
+    font-size: 1rem;
+    
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+}
+
+.defaultButton:hover {
+    color: black;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+}
+
+.whiteButton {
+    width: 180px;
+    height: 40px;
+
+    background-color: white;
+    color: black;
+    
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 12px 24px;
+    
+    font-size: 1rem;
+    
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+}
+
+.whiteButton:hover {
+    color: black;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+}

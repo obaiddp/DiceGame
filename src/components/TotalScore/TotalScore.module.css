@@ -1,0 +1,14 @@
+h1 { 
+    font-size: 100px;
+    color: #000;
+    margin: 0;
+    margin-bottom: -10px; 
+}  
+
+.topLeft p {
+    font-size: 24px;
+    font-weight: 800;
+    color: #000000;
+    font-weight: 500;
+    margin: 0; 
+} 

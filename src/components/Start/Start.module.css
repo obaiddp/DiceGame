@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    /* max-width: 1180px; */
+
+    height: 100vh;
+    gap: 100px;
+}
+
+.left {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.left img {
+    max-width: auto;
+    height: auto;
+}
+
+.right {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0px;
+}
+
+.right h1 {
+    font-size: 90px;
+    color: #000000;
+    /* letter-spacing: 2px; */
+    margin: 0%;
+}
+
+
+.buttonContainer {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
