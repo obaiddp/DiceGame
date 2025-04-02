@@ -8,4 +8,8 @@
 - Instruction can be seen by clicking on bottom button
 
 
-  
+### Gameplay:
+
+![image alt](https://github.com/obaiddp/DiceGame/blob/main/d1.png)
+
+![image alt](https://github.com/obaiddp/DiceGame/blob/main/d2.png)
